@@ -3128,7 +3128,7 @@
 
         <activity android:name=".Settings$OwlsNestSettingsActivity"
                   android:label="@string/owlsnest_title"
-                  android:icon="@drawable/ic_settings_illusion">
+                  android:icon="@drawable/ic_settings_zero">
             <intent-filter android:priority="10">
                 <action android:name="com.android.settings.action.SETTINGS"/>
             </intent-filter>
