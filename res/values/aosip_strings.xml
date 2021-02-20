@@ -20,7 +20,7 @@
     <string name="aosip_version">Zero Build</string>
 
     <!-- AOSiP Updater -->
-    <string name="update_settings_title">AOSiP Updater</string>
+    <string name="update_settings_title">Zero Updater</string>
     <string name="update_settings_summary">Check for the latest version of the rom</string>
     <string name="update_package" translatable="false">org.lineageos.updater</string>
     <string name="update_activity" translatable="false">org.lineageos.updater.UpdatesActivity</string>
